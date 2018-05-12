@@ -1,10 +1,16 @@
 _repo: Australia-in-Arms-A-Narrative-of-the-Australian-Imperial-Force-and-Their-Achievement-at-Anzac_46703
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46703-h/images/cover.jpg
 creator:
   author:
     agent_name: Schuler, Phillip F.E.
     gutenberg_agent_id: '43912'
     url: http://www.gutenberg.org/2009/agents/43912
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46703#Australia-in-Arms-A-Narrative-of-the-Australian-Imperial-Force-and-Their-Achievement-at-Anzac
 gutenberg_issued: '2014-08-27'
 gutenberg_type: Text
 identifiers:
